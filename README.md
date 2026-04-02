@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hello World, I'm Vikram Vadhirajan
 
-<!--
-**VikramVadhirajan/VikramVadhirajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on Machine Learning Projects  
+🌱 I’m currently learning Advanced Data Science  
+👯 I’m looking to collaborate on Data Science / AI Projects  
+💬 Ask me about Python, Power BI, ML  
 
-Here are some ideas to get you started:
+📫 How to reach me:  
+LinkedIn: https://linkedin.com/in/yourprofile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue)
+![PowerBI](https://img.shields.io/badge/PowerBI-yellow)
+![Pandas](https://img.shields.io/badge/Pandas-black)
+![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-orange)
+![Azure](https://img.shields.io/badge/Azure-blue)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VikramVadhirajan&show_icons=true&theme=dark)
