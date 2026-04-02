@@ -23,3 +23,5 @@ LinkedIn: https://linkedin.com/in/yourprofile
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VikramVadhirajan&show_icons=true&theme=dark)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VikramVadhirajan&show_icons=true&theme=radical)
